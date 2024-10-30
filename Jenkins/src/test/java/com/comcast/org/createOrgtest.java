@@ -7,7 +7,7 @@ import com.comcast.BaseUtility.BaseUtilityOrg;
 import com.comcast.ObjetcRepo.HomePage;
 import com.comcast.ObjetcRepo.createOrganization;
 
-public class createOrg extends BaseUtilityOrg{
+public class createOrgtest extends BaseUtilityOrg{
 	
 
 	@Test

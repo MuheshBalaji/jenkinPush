@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import com.comcast.BaseUtility.BaseUtilityContact;
 
 
-public class createContact extends BaseUtilityContact{
+public class createContacttest extends BaseUtilityContact{
 	
 	@Test
 	
